@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science and very interesting in Machine Learning, Deep Learning 
 - 👯 I’m looking to collaborate on Computer Vision
 
-[![Gmail Badge](https://img.shields.io/badge/-taiinguyenn139@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taiinguyenn139@gmail.com)](mailto:taiinguyenn139@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-taiinguyenn139-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taiinguyenn139@gmail.com)](mailto:taiinguyenn139@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-taiinguyenn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-25556320a/)](https://www.linkedin.com/in/t%C3%A0i-nguy%E1%BB%85n-25556320a/)
 
 ## ⚡ Technologies
