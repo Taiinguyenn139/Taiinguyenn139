@@ -1,7 +1,5 @@
 ### Hi there, I'm Tai Nguyen 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying at HCMUE in Viet Nam
 - 🌱 I’m currently learning Computer Science and very interesting in Machine Learning, Deep Learning 
 - 👯 I’m looking to collaborate on Computer Vision
